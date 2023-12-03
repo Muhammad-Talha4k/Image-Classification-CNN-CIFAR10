@@ -27,9 +27,7 @@ This notebook contain the code and explanation of the task.
 
 ## Results
 
-The CNN model achieved an accuracy of 88%, a precision of 0.88, a recall of 0.89, and an F1-score of 0.88 on the test set. 
-
-The model was able to classify most of the images correctly, but it also had some misclassifications. The confusion matrix shows that the model had the most difficulty in distinguishing between cats and dogs. 
+The CNN model achieved an accuracy of 88%, a precision of 0.88, a recall of 0.89, and an F1-score of 0.88 on the test set. The model was able to classify most of the images correctly, but it also had some misclassifications. The confusion matrix shows that the model had the most difficulty in distinguishing between cats and dogs. 
 
 ## Contributions
 
